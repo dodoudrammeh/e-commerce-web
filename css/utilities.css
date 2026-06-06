@@ -1,0 +1,37 @@
+/* Reset */
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+.header {
+  background: radial-gradient(circle, #f00, #f0f);
+  padding: 20px 0;
+}
+
+.w-full {
+  background: radial-gradient(circle, #f00, #f0f);
+}
+/* res */
+.max-continer {
+  max-width: 1600px;
+  margin: auto;
+  padding-left: 25px;
+  padding-right: 20px;
+}
+.flex {
+  display: flex;
+}
+.txt-center {
+  text-align: center;
+  text-transform: uppercase;
+  padding: 40px 10px;
+}
+
+.sub-tit {
+  text-align: center;
+}
+.padding-1 {
+  margin: 40px auto;
+}
